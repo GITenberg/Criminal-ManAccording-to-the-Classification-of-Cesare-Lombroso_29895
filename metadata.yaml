@@ -1,0 +1,39 @@
+_repo: Criminal-ManAccording-to-the-Classification-of-Cesare-Lombroso_29895
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Lombroso, Cesare
+    aliases:
+    - Lombroso, C. (Cesare)
+    - Lombroso, Marco Ezechia
+    birthdate: 1835
+    deathdate: 1909
+    gutenberg_agent_id: '34235'
+    url: http://www.gutenberg.org/2009/agents/34235
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lombroso, Gina
+    alias: Lombroso-Ferrero, Gina
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34234'
+    url: http://www.gutenberg.org/2009/agents/34234
+description: ''
+gutenberg_issued: '2009-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29895'
+  lccn: '11009953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminal anthropology'
+- !lcc 'HV'
+- !lcsh 'Criminology'
+title: Criminal Man, According to the Classification of Cesare Lombroso
+url: http://www.gutenberg.org/ebooks/29895
